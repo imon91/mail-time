@@ -49,7 +49,7 @@ public class AndroidDemoTest  extends BaseTest {
 	@Test
 	public void test(){
 		
-		 //sendPDFReportByGMail("tasnim.hosen.ewu@gmail.com", "lio224087", "tasnim.hosen.upwork@gmail.com", "PDF Report", "testt");
+		 //sendPDFReportByGMail("tasnim.hosen.ewu@gmail.com", "*******", "tasnim.hosen.upwork@gmail.com", "PDF Report", "testt");
 		time();
 		
 	}
